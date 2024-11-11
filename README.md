@@ -15,14 +15,6 @@
 
 ---
 
-## 📸 App Previews
-
-| Onboarding | Birthday List | Add Birthday Form |
-|------------|---------------|-------------------|
-| ![Onboarding](assets/screenshots/onboarding.png) | ![Birthday List](assets/screenshots/birthday_list.png) | ![Add Birthday Form](assets/screenshots/add_form.png) |
-
----
-
 ## 🛠️ Tools and Packages Used
 
 - **Flutter** - The main SDK for app development.
